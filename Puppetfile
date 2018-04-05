@@ -19,7 +19,7 @@ mod "puppetlabs/java", 	      '1.6.0'
 
 mod 'ssh',
   :git => 'https://github.com/adonyec1/cnan_ssh.git',
-  :ref => 'master',
+  :ref => 'master'
 
 mod 'ntp',
   :git => 'https://github.com/adonyec1/cnan_ntp.git',
