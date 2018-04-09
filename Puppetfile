@@ -19,16 +19,16 @@ mod "puppetlabs/java", 	      '1.6.0'
 
 mod 'ssh',
   :git => 'https://github.com/adonyec1/cnan_ssh.git',
-  :ref => 'production'
+  :ref => 'master'
 
 mod 'ntp',
   :git => 'https://github.com/adonyec1/cnan_ntp.git',
-  :ref => 'production'
+  :ref => 'master'
 
 mod 'role',
   :git => 'https://github.com/adonyec1/cnan-role.git',
-  :ref => 'production'
+  :ref => 'master'
 
 mod 'profile',
   :git => 'https://github.com/adonyec1/cnan-profile',
-  :ref => 'production'
+  :ref => 'master'
